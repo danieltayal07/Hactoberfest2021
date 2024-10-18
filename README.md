@@ -65,22 +65,27 @@ Go through the checklist on the pull request template to guarantee your submissi
 
 1. **Clone the Repository**
 
-    `git clone https://github.com/your-username/repository-name.git`
+    ```
+    git clone https://github.com/your-username/repository-name.git
 
 2. **Get in the Project Directory**
 
-    `cd repository-name`
+    ```
+    cd repository-name
 
 3. Make Your Changes Edit files or add new files as per the contribution guidelines.
 
 4. Commit Your Changes
 
-    `git add .
-    git commit -m "Your commit message here"`
+    ```
+    git add .
+    
+    git commit -m "Your commit message here"
 
 5. Push to Your Fork
 
-    `git push origin branch-name`
+   ```
+   git push origin branch-name
 
 6. Create a Pull Request:
 
