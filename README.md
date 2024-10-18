@@ -1,5 +1,5 @@
 <img align="center" height="500" src="https://github.com/Ishaan28malik/Hacktoberfest-2021/blob/master/src/Selection_116.png"/>
-◉ When the **Hacktoberfest20** comes to an end, I will be distributing some free Open Source **t-shirts** to a few contributors
+When the **Hacktoberfest20** comes to an end, I will be distributing some free Open Source **t-shirts** to a few contributors
 <h1 align=center> Hacktoberfest2021 </h1>
 
  Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
@@ -24,10 +24,10 @@ Fork this repository and make changes in code as required. You can change it onl
 
 **Once you’ve written code in your branch and are ready to commit, make sure to write clean, meaningful commit messages. Let’s review the anatomy of a good commit message:**
 
-◉ First line: no more than 50 characters.
+- First line: no more than 50 characters.
 
 
-◉ Details section (if necessary): wrapped at 72 characters, using present imperative tense like "fix bug" rather than "fixed bug."
+- Details section (if necessary): wrapped at 72 characters, using present imperative tense like "fix bug" rather than "fixed bug."
 
 
 
